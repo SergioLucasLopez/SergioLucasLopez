@@ -2,7 +2,7 @@
 
 ### Desarrollador Backend Junior 🚀
 
-![https://github.com/SergioLucasLopez/SergioLucasLopez] (Banner Linkedin.png)
+![Banner LinkedIn](https://github.com/SergioLucasLopez/SergioLucasLopez/blob/main/Banner%20Linkedin.png)
 
 ¡Hola! Soy Sergio Lucas, un apasionado desarrollador backend junior. Este es mi espacio donde comparto mis proyectos y mi evolución como desarrollador.
 
