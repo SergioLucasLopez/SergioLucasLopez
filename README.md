@@ -2,7 +2,7 @@
 
 ### Desarrollador Fullstack Junior 🚀
 
-![Banner LinkedIn](https://github.com/SergioLucasLopez/SergioLucasLopez/blob/main/Banner%20Linkedin.png)
+![Banner LinkedIn](https://github.com/SergioLucasLopez/SergioLucasLopez/blob/main/New%20Banner.png)
 
 ¡Hola! Soy Sergio Lucas, un apasionado desarrollador Fullstack junior. Este es mi espacio donde comparto mis proyectos y mi evolución como desarrollador.
 
